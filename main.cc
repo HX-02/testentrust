@@ -23,11 +23,8 @@ int main() {
                 ++pages; //cambio de pagina
                 lines = 0; //reinicio la cuenta de lineas
             }
-
             chars = 0; //reinicio la cuenta de caracteres
         }
-
     }
-
     cout << final;
 }
